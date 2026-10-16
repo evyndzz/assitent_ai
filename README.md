@@ -167,3 +167,4 @@ assist_ai/
 ## 📜 Lisensi
 MIT License - Bebas digunakan dan dikembangkan untuk keperluan personal maupun komersial.
 
+# assitent_ai
